@@ -1,16 +1,24 @@
-## Hi there 👋
+Olá, eu sou o Gabriel Jose da Costa! 
 
-<!--
-**Hedbi/Hedbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor | Analista de Sistemas 
 
-Here are some ideas to get you started:
+Atualmente, meu foco é aprender e crescer na área de desenvolvimento e análise de sistemas, agregando valor à equipe através da minha participação em diversas atividades, desde a análise de requisitos até o suporte em testes e desenvolvimento. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tecnologias
+ASP.NET · C# · Docker · Java · Python · C/C++ 
+
+
+
+
+Competências
+Análise de Requisitos · Testes de Software e Automação · Documentação de Sistemas · Resolução de Problemas · Trabalho em Equipe · Comunicação Eficaz 
+
+
+
+
+
+Contato
+gabrieljosedacosta2000@gmail.com
+
+LinkedIn 

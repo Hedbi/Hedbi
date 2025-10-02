@@ -20,5 +20,3 @@ Análise de Requisitos · Testes de Software e Automação · Documentação de 
 
 Contato
 gabrieljosedacosta2000@gmail.com
-
-LinkedIn 

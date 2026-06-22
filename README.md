@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Jose da Costa! 
 
 ### Desenvolvedor | Analista de Sistemas 
-Atualmente, estou contratado como Analista de Sistemas, onde participo de diversas atividades relacionadas ao desenvolvimento e manutenção de sistemas. Entre as minhas tarefas, estão a análise de requisitos, ajudando a identificar e documentar as necessidades dos usuários, além de testar funcionalidades para garantir que tudo esteja funcionando conforme o esperado. Também auxilio em testes de Software, dando suporte na automação de testes. Além disso, contribuo para a atualização de documentações, como manuais e diagramas, e em alguns casos, apoio no desenvolvimento de pequenas funcionalidades ou correções nos sistemas. Meu objetivo é aprender e crescer enquanto agrego valor ao time.
+Desenvolvedor de Software com experiência profissional em aplicações web utilizando C#, .NET e Angular. Atuei na implementação e manutenção de funcionalidades, integração de APIs REST, automações com Power Automate e processos de CI/CD no Azure DevOps. Graduando em Ciência da Computação, com experiência acadêmica em monitoria de algoritmos, estruturas de dados e resolução de problemas.
 
 ---
 
